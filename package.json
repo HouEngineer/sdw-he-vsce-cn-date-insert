@@ -1,6 +1,6 @@
 {
   "name": "sdw-he-vsce-cn-date-insert",
-  "displayName": "插入当前日期（含农历星期）",
+  "displayName": "SDW-HE 插入当前日期（含农历星期）",
   "description": "在光标处插入当天日期，格式：## 2026年9月18日 农历八月初八 周五",
   "version": "0.0.3",
   "publisher": "houengineer",

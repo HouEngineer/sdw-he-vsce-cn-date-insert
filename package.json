@@ -1,8 +1,8 @@
 {
-  "name": "cn-date-insert",
+  "name": "sdw-he-vsce-cn-date-insert",
   "displayName": "插入当前日期（含农历星期）",
   "description": "在光标处插入当天日期，格式：## 2026年9月18日 农历八月初八 周五",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "publisher": "houengineer",
   "engines": {
     "vscode": "^1.88.0"
@@ -22,7 +22,7 @@
   "main": "./out/extension.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/HouEngineer/vsce-cn-date-insert.git"
+    "url": "https://github.com/HouEngineer/sdw-he-vsce-cn-date-insert.git"
   },
   "icon": "images/icon.png",
   "contributes": {

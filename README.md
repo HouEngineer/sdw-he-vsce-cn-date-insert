@@ -24,8 +24,8 @@
 
 每次合并到 `main` 分支后会通过 GitHub Actions 自动发布到：
 
-- [VS Code 扩展市场](https://marketplace.visualstudio.com/items?itemName=houengineer.cn-date-insert)
-- [Open VSX（VS Code OSS 版扩展市场）](https://open-vsx.org/extension/houengineer/cn-date-insert)
+- [VS Code 扩展市场](https://marketplace.visualstudio.com/items?itemName=houengineer.sdw-he-vsce-cn-date-insert)
+- [Open VSX（VS Code OSS 版扩展市场）](https://open-vsx.org/extension/houengineer/sdw-he-vsce-cn-date-insert)
 
 发布前需要先更新 `package.json` 中的 `version`（市场不允许重复发布同一版本）。
 

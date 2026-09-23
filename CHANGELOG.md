@@ -10,3 +10,7 @@
 
 - 修复：发布包缺少 `lunar-typescript` 依赖导致命令无法注册（`command not found`），改为随 VSIX 打包依赖。
 
+## [0.0.3] - 2026-09-23
+
+- 变更：插件 ID 由 `cn-date-insert` 更名为 `sdw-he-vsce-cn-date-insert`，与仓库名保持一致；repository 地址同步更新。
+
